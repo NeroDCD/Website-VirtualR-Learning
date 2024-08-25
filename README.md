@@ -4,7 +4,7 @@ This project was developed based on the YouTube tutorial titled **"Build and Dep
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=EwzWg-Joxq0" target="_blank">
-    <img src="https://img.youtube.com/vi/EwzWg-Joxq0/maxresdefault.jpg" alt="Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS" width="600" />
+    <img src="https://img.youtube.com/vi/EwzWg-Joxq0/maxresdefault.jpg" alt="Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS" width="100%" />
   </a>
 </p>
 
