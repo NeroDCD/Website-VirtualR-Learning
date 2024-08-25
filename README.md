@@ -28,6 +28,7 @@ npm run dev
 ```bash
 npm run build
 ```
+<br>
 ## React + Vite Project
 
 This project provides a minimal setup to get React working with Vite, featuring HMR (Hot Module Replacement) and some ESLint rules.
