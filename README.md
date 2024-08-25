@@ -15,18 +15,18 @@ This project was built following the tutorial "Build and Deploy Fully Responsive
 
 **Link to the tutorial:** [Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS](https://www.youtube.com/watch?v=EwzWg-Joxq0)
 
-## Getting Started
+# Getting Started
 To get started with this project, clone the repository and install the dependencies:
 ```bash
 git clone <repository-url>
 cd <repository-folder>
 npm install
 ```
-## To start the development server, run:
+# To start the development server, run:
 ```bash
-npm run dev`
+npm run dev
 ```
-## To create a production build, run:
+# To create a production build, run:
 ```bash
-npm run build`
+npm run build
 ```
