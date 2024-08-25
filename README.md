@@ -11,16 +11,25 @@ Currently, two official plugins are available for this setup:
 
 ## Project Overview
 
-This project was built following the tutorial "Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS" on YouTube. The tutorial covers the process of creating a modern, fully responsive landing page using React and Tailwind CSS, and provides guidance on deploying it.
+This project was built following the tutorial **"Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS"** on YouTube. The tutorial covers the process of creating a modern, fully responsive landing page using React and Tailwind CSS, and provides guidance on deploying it.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=EwzWg-Joxq0" target="_blank">
+    <img src="https://img.youtube.com/vi/EwzWg-Joxq0/maxresdefault.jpg" alt="Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS" width="600" />
+  </a>
+</p>
 
 **Link to the tutorial:** [Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS](https://www.youtube.com/watch?v=EwzWg-Joxq0)
 
-# Getting Started
+## Getting Started
+
 To get started with this project, clone the repository and install the dependencies:
+
 ```bash
 git clone <repository-url>
 cd <repository-folder>
 npm install
+
 ```
 # To start the development server, run:
 ```bash
