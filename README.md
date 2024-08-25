@@ -8,7 +8,7 @@ This project was developed based on the YouTube tutorial titled **"Build and Dep
   </a>
 </p>
 
-**Link to the tutorial:** [Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS](https://www.youtube.com/watch?v=EwzWg-Joxq0)
+**Link to the tutorial:** <a href="https://www.youtube.com/watch?v=EwzWg-Joxq0" target="_blank">Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS</a>
 
 ## Getting Started
 
