@@ -12,9 +12,11 @@ This project was developed based on the YouTube tutorial titled **"Build and Dep
 
 ## ⚙️ Tech Stack
 
-- **Vite**
-- **React.js**
-- **Tailwind CSS**
+<p align="center">
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="100" />
+  <img src="https://reactjs.org/logo-og.png" alt="React.js" width="100" />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logo.4e89a91c.svg" alt="Tailwind CSS" width="100" />
+</p>
   
 ## ⚡ Getting Started
 
