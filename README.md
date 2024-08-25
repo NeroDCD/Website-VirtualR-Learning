@@ -10,6 +10,12 @@ This project was developed based on the YouTube tutorial titled **"Build and Dep
 
 **Link to the tutorial:** <a href="https://www.youtube.com/watch?v=EwzWg-Joxq0" target="_blank">Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS</a>
 
+## ⚙️ Tech Stack
+
+- **Vite**
+- **React.js**
+- **Tailwind CSS**
+  
 ## Getting Started
 
 To get started with this project, clone the repository and install the dependencies:
