@@ -12,11 +12,9 @@ This project was developed based on the YouTube tutorial titled **"Build and Dep
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="100" />
-  <img src="https://reactjs.org/logo-og.png" alt="React.js" width="100" />
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logo.4e89a91c.svg" alt="Tailwind CSS" width="100" />
-</p>
+- **Vite**
+- **React.js**
+- **Tailwind CSS**
   
 ## ⚡ Getting Started
 
@@ -40,11 +38,11 @@ npm run build
 ```
 
 
-## React + Vite Project
+## 💎 React + Vite Project
 
 This project provides a minimal setup to get React working with Vite, featuring HMR (Hot Module Replacement) and some ESLint rules.
 
-## Available Plugins
+## 🔌 Available Plugins
 
 Currently, two official plugins are available for this setup:
 
