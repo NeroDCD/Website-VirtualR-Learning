@@ -20,11 +20,11 @@ cd <repository-folder>
 npm install
 
 ```
-# To start the development server, run:
+## To start the development server, run:
 ```bash
 npm run dev
 ```
-# To create a production build, run:
+## To create a production build, run:
 ```bash
 npm run build
 ```
