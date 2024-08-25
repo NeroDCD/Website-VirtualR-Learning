@@ -11,7 +11,7 @@ Currently, two official plugins are available for this setup:
 
 ## Project Overview
 
-This project was built following the tutorial **"Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS"** on YouTube. The tutorial covers the process of creating a modern, fully responsive landing page using React and Tailwind CSS, and provides guidance on deploying it.
+This project was developed based on the YouTube tutorial titled **"Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS."** The tutorial provides a comprehensive guide to creating a modern, fully responsive landing page using React and Tailwind CSS, and includes instructions on how to deploy it.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=EwzWg-Joxq0" target="_blank">
