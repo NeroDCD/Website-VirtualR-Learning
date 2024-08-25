@@ -16,7 +16,7 @@ This project was developed based on the YouTube tutorial titled **"Build and Dep
 - **React.js**
 - **Tailwind CSS**
   
-## Getting Started
+## ⚡ Getting Started
 
 To get started with this project, clone the repository and install the dependencies:
 
@@ -26,11 +26,13 @@ cd <repository-folder>
 npm install
 
 ```
-## To start the development server, run:
+## 🎆 Start the server
+To start the development server, run:
 ```bash
 npm run dev
 ```
-## To create a production build, run:
+## 🔨 Production build
+To create a production build, run:
 ```bash
 npm run build
 ```
