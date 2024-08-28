@@ -38,13 +38,7 @@ npm run build
 ```
 
 
-## 💎 React + Vite Project
+## ✏️ Guide for Creating and Setting Up the Project from Scratch
 
-This project provides a minimal setup to get React working with Vite, featuring HMR (Hot Module Replacement) and some ESLint rules.
-
-## 🔌 Available Plugins
-
-Currently, two official plugins are available for this setup:
-
-- **[@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)**: Utilizes [Babel](https://babeljs.io/) for Fast Refresh.
-- **[@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)**: Utilizes [SWC](https://swc.rs/) for Fast Refresh.
+- [Installing Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)  
+  A comprehensive guide to setting up Tailwind CSS in a React + Vite project.
