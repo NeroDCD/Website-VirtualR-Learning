@@ -1,7 +1,4 @@
 # Project Overview
-
-This project was developed based on the YouTube tutorial titled **"Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS."** The tutorial provides a comprehensive guide to creating a modern, fully responsive landing page using React and Tailwind CSS, and includes instructions on how to deploy it.
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=EwzWg-Joxq0" target="_blank">
     <img src="https://img.youtube.com/vi/EwzWg-Joxq0/maxresdefault.jpg" alt="Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS" width="100%" />
@@ -9,6 +6,9 @@ This project was developed based on the YouTube tutorial titled **"Build and Dep
 </p>
 
 **Link to the tutorial:** <a href="https://www.youtube.com/watch?v=EwzWg-Joxq0" target="_blank">Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS</a>
+
+---
+This project was developed based on the YouTube tutorial titled **"Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS."** The tutorial provides a comprehensive guide to creating a modern, fully responsive landing page using React and Tailwind CSS, and includes instructions on how to deploy it.
 
 ## ⚙️ Tech Stack
 
